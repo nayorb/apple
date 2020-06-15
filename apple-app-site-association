@@ -1,0 +1,17 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "AVFL4B42AS.com.01people.hilbi" ],
+             "components": [
+               {
+                  "/": "/nc/*"
+               }
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "AVFL4B42AS.com.01people.hilbi" ]
+   }
+}
